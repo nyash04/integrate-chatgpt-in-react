@@ -1,4 +1,5 @@
-# Create Chatbot w/ ChatGPT 3.5, OpenAI API, React.js, daisyUI and Tailwind CSS
+# Vercel
+https://integrate-chatgpt-in-react.vercel.app
 
 ## Demo 
 https://youtu.be/IQJE2VIeXQk
